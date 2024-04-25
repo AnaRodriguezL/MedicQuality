@@ -1,4 +1,4 @@
-# 🩺📊 Medical Entity Dashboard
+<h1 align="center">🩺📊 Medical Entity Dashboard<h1>
 
 This project consists of a dashboard developed for a medical entity, which allows monitoring, analyzing, and performing various interactions related to medical data management and administrative operations. The dashboard is built using the Angular framework for the frontend and Python for the backend.
 <br>
