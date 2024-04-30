@@ -2,7 +2,7 @@
 
 This project consists of a dashboard developed for a medical entity, which allows monitoring, analyzing, and performing various interactions related to medical data management and administrative operations.
 
-<hr>
+<br>
 
 ## 🚀 Key Features
 
