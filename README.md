@@ -1,7 +1,8 @@
-<h1 align="center">🩺📊 Medical Entity Dashboard</h1>
+<h1 align="center">📊 Medical Entity Dashboard 🩺</h1>
 
-This project consists of a dashboard developed for a medical entity, which allows monitoring, analyzing, and performing various interactions related to medical data management and administrative operations. The dashboard is built using the Angular framework for the frontend and Python for the backend.
-<br>
+This project consists of a dashboard developed for a medical entity, which allows monitoring, analyzing, and performing various interactions related to medical data management and administrative operations.
+
+<hr>
 
 ## 🚀 Key Features
 
@@ -9,6 +10,7 @@ This project consists of a dashboard developed for a medical entity, which allow
 - **Appointment and Schedule Management**: Facilitates the management of medical appointments, doctor schedules, and room availability.
 - **Data Analysis**: Provides tools for analyzing medical data and generating statistical reports on pathologies, treatments, etc.
 - **Administrative Interactions**: Enables administrative actions such as user management, roles, permissions, etc.
+
 <br>
 
 ## 💻 Technologies Used
@@ -17,6 +19,7 @@ This project consists of a dashboard developed for a medical entity, which allow
 - **Python**: Programming language used for backend development and business logic.
 - **Database (to be defined)**: A database (e.g., MySQL, PostgreSQL, MongoDB) is used to store medical and user data.
 - **RESTful API**: A RESTful API is implemented in Python using frameworks like Flask or Django for communication between the frontend and backend.
+
 <br>
 
 ## 🛠️ Installation and Usage
@@ -55,6 +58,7 @@ ng serve
 ```
 
 And that's it! You can now access the application in your web browser by navigating to `http://localhost:4200`.
+
 <br>
 
 ## 👩‍💻👨‍💻 Developers
@@ -119,6 +123,8 @@ And that's it! You can now access the application in your web browser by navigat
         </td>
     </tr>
 </table>
+
+<br>
 
 ## 📄 License
 
